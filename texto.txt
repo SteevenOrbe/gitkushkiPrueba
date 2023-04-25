@@ -1,7 +1,7 @@
 el achivo index y main.js y texto fueron creados en la rama master
 esta linea se agrego desde github manualmente des la branch main o master la interfce de github.
 
-esta line se agrego em la rama masin o mastes
+esta line se agrego em la rama masin o mastes (crendo clonfictos entre rama feature)
 ESTA LINEA LA AGREGE EN LA BRANCH Rrelease/123 linea 1
 ESTA LINEA LA AGREGE EN LA BRANCH Rrelease/123 linea 2
 ESTA LINEA LA AGREGE EN LA BRANCH Rrelease/123 linea 3
