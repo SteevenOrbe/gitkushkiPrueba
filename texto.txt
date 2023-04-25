@@ -1,1 +1,2 @@
 el achivo index y main.js y texto fueron creados en la rama master
+esta linea se agrego desde github manualmente.
